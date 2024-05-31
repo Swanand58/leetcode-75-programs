@@ -13,3 +13,7 @@ This repository contains solutions to LeetCode75 problems.
 ### [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1169281949/)
 
 ### [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/1169281949/)
+
+### [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1195114911/)
+
+
