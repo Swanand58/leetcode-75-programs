@@ -16,4 +16,4 @@ This repository contains solutions to LeetCode75 problems.
 
 ### [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1195114911/)
 
-
+### [Plus One](https://leetcode.com/problems/plus-one/submissions/1274391798/)
