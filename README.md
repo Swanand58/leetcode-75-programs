@@ -17,3 +17,7 @@ This repository contains solutions to LeetCode75 problems.
 ### [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1195114911/)
 
 ### [Plus One](https://leetcode.com/problems/plus-one/submissions/1274391798/)
+
+### [Two Sum](https://leetcode.com/problems/two-sum/submissions/1113334061/)
+
+### [Sqrtx](https://leetcode.com/problems/sqrtx/submissions/1275509034/)
