@@ -21,3 +21,7 @@ This repository contains solutions to LeetCode75 problems.
 ### [Two Sum](https://leetcode.com/problems/two-sum/submissions/1113334061/)
 
 ### [Sqrtx](https://leetcode.com/problems/sqrtx/submissions/1275509034/)
+
+### [Append characters to make a subsqquence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/submissions/1276616115/)
+
+### [longest Palindrome](https://leetcode.com/problems/longest-palindrome/submissions/1277035720)
