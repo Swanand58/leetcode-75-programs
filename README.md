@@ -25,3 +25,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Append characters to make a subsqquence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/submissions/1276616115/)
 
 ### [longest Palindrome](https://leetcode.com/problems/longest-palindrome/submissions/1277035720)
+
+### [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/submissions/1280806894/)
