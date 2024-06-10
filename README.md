@@ -27,3 +27,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [longest Palindrome](https://leetcode.com/problems/longest-palindrome/submissions/1277035720)
 
 ### [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/submissions/1280806894/)
+
+### [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1283700180/)
