@@ -31,3 +31,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1283700180/)
 
 ### [Relative Sort](https://leetcode.com/problems/relative-sort-array/submissions/1285056291/)
+
+### [Sort Colors](https://leetcode.com/problems/sort-colors/submissions/1285913878)
