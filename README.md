@@ -33,3 +33,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Relative Sort](https://leetcode.com/problems/relative-sort-array/submissions/1285056291/)
 
 ### [Sort Colors](https://leetcode.com/problems/sort-colors/submissions/1285913878)
+
+### [Minimum Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/submissions/1286607974/?envType=daily-question&envId=2024-06-13)
