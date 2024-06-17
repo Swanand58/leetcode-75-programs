@@ -37,3 +37,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Minimum Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/submissions/1286607974/?envType=daily-question&envId=2024-06-13)
 
 ### [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/submissions/1288316416/)
+
+### [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/submissions/1290732979/)
