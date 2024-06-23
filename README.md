@@ -39,3 +39,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/submissions/1288316416/)
 
 ### [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/submissions/1290732979/)
+
+### [Count Number of Nice Subarray](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/1296389681/)
