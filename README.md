@@ -41,3 +41,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/submissions/1290732979/)
 
 ### [Count Number of Nice Subarray](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/1296389681/)
+
+### [Longest Continuous Subarray](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/1297306139/)
