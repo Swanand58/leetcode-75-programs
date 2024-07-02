@@ -43,3 +43,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Count Number of Nice Subarray](https://leetcode.com/problems/count-number-of-nice-subarrays/submissions/1296389681/)
 
 ### [Longest Continuous Subarray](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/1297306139/)
+
+### [Special Array I](https://leetcode.com/problems/special-array-i/submissions/1306526873/)
