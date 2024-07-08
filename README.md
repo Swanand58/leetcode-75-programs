@@ -45,3 +45,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Longest Continuous Subarray](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/1297306139/)
 
 ### [Special Array I](https://leetcode.com/problems/special-array-i/submissions/1306526873/)
+
+###[number of 1 bits](https://leetcode.com/problems/number-of-1-bits/submissions/1311822532/)
