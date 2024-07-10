@@ -47,3 +47,5 @@ This repository contains solutions to LeetCode75 problems.
 ### [Special Array I](https://leetcode.com/problems/special-array-i/submissions/1306526873/)
 
 ### [number of 1 bits](https://leetcode.com/problems/number-of-1-bits/submissions/1311822532/)
+
+### [kth factor of n](https://leetcode.com/problems/the-kth-factor-of-n/submissions/1315545014/)
