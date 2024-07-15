@@ -49,3 +49,9 @@ This repository contains solutions to LeetCode75 problems.
 ### [number of 1 bits](https://leetcode.com/problems/number-of-1-bits/submissions/1311822532/)
 
 ### [kth factor of n](https://leetcode.com/problems/the-kth-factor-of-n/submissions/1315545014/)
+
+### [generate Parenthesis]
+
+### [Remove Element]
+
+### [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/1321258566/)
